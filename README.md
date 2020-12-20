@@ -24,5 +24,8 @@ Une application permettant d'appliquer les opérations de base pour le traitemen
 * Addition de deux images
 * Soustraction de deux images
 
-## Setup
+## Installation
+```
+git clone https://github.com/sirineFoudili/Images-Processing.git
  
+```
