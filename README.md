@@ -1,9 +1,9 @@
 # Image Processing
 Une application permettant d'appliquer les opérations de base pour le traitement et l'analyse des images.
 
-## Exemple
+##
 ![Traitement d'image](./images/app.png)
-##Technologies
+## Technologies
 * C#
 * Visual Studio
 ## Fonctionnalités
